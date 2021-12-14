@@ -1,1 +1,1 @@
-# tkinter_py
+# Curso de interfaces gráficas con Python (tkinter)
